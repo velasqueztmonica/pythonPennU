@@ -7,7 +7,8 @@ name = input('What is your name?')
 print('Hello ' + name)
 
 # Set variable x to cats
-# Set a variblae y to dogs
+# Set a varib
+# lae y to dogs
 
 x = 'cats'
 y = 'dogs'
@@ -36,3 +37,4 @@ totalBill = totalBill + (totalBill * (tipPercentage/100))
 #3. Print the total bill
 
 print(totalBill)
+
