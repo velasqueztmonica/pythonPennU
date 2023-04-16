@@ -2,7 +2,7 @@ def word_count(sentence):
     
     sentence = sentence.strip() #removes whitespace 
     
-    num_spaces = count_instance_of_string(sentence, " ")
+    num_spaces = count_instance_of_str(sentence, " ")
     
     word_count = num_spaces + 1
     
